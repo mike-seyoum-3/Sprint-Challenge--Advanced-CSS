@@ -34,7 +34,14 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+A responsive website adapts to all screen across the devices.
+
+adaptive website adapts itslef to fit into various screen sizes. it relies onsizes to adopt to resolutions aacross devices. 
+
 2. Describe what it means to be mobile first vs desktop first.
+
+Mobile first means the developer begins desigining for the mobile device first and for the larger screen desktop version.
+Desktop first means the developer begins designing for the desktop first and then removes or rearranges features for the smaller screen mobile version.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
